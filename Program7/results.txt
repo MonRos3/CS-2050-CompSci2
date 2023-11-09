@@ -1,0 +1,4 @@
+Integer Bubble Sort: : 0.308106083 seconds
+Integer Selection Sort: : 0.134101625 seconds
+String Bubble Sort: : 0.538747125 seconds
+String Selection Sort: : 0.243247708 seconds
