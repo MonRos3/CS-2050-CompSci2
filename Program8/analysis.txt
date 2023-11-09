@@ -1,0 +1,3 @@
+Number of nodes: 10427
+Tree height: 39
+Maximum nodes possible: 2147483646
